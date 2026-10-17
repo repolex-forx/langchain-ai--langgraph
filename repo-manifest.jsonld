@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/langchain-ai/langgraph/commit/41c9c22fdc83d68a2859d0c9a2b627c8615a792f",
       "git:hexsha": "41c9c22fdc83d68a2859d0c9a2b627c8615a792f",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "sdk==0.4.8"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "sdk==0.4.8",
+      "repolex:parsedAt": "2026-10-17T09:13:41.371493+00:00"
     },
     {
       "@id": "https://repolex.ai/r/langchain-ai/langgraph/commit/3fdd4715f572fe6da87ae2a7284835fbe0617202",
